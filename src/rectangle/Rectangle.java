@@ -5,9 +5,11 @@ public class Rectangle {
 
     public static void main(String[] args) {
         // TODO code application logic here
-        int width=5;  
-        int height=10;  
-        int area=width*height;  
+        int w=5;  
+        int h=10;  
+    
+        int area=w*h;
+        
         System.out.println("Area of rectangle="+area);
     }
     
